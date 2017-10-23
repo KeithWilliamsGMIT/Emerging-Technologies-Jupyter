@@ -12,3 +12,6 @@ Search online for Fisher’s iris data set, find a copy of the data, download it
 In a markdown cell at the start of your notebook, write a short description of the iris data set, complete with references.
 
 **Solution:** A description of the iris data set can be found [here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.names).
+
+## 3. Create a simple plot
+The dataset contains five variables: sepal length, sepal width, petal length, petal width, and species. Use pyplot to create a scatter plot of sepal length on the x-axis versus sepal width on the y-axis. Add axis labels and a title to the plot.
