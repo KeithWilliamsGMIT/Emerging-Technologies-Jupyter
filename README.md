@@ -21,3 +21,6 @@ Re-create the above plot, but this time plot the setosa data points in red, the 
 
 ## 5. Use seaborn
 Use the [seaborn](http://seaborn.pydata.org/examples/scatterplot_matrix.html) library to create a scatterplot matrix of all five variables.
+
+## 6. Fit a line
+Fit a straight line to the variables petal length and petal width for the whole data set. Plot the data points in a scatter plot with the best fit line shown.
