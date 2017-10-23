@@ -15,3 +15,6 @@ In a markdown cell at the start of your notebook, write a short description of t
 
 ## 3. Create a simple plot
 The dataset contains five variables: sepal length, sepal width, petal length, petal width, and species. Use pyplot to create a scatter plot of sepal length on the x-axis versus sepal width on the y-axis. Add axis labels and a title to the plot.
+
+## 4. Create a more complex plot
+Re-create the above plot, but this time plot the setosa data points in red, the versicolor data point in green, and the virginica data points in blue. Setosa, versicolor, and virginica are the three possible values of the species variable. Add a legend to the plot showing which species is in which colour.
