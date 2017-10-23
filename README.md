@@ -18,3 +18,6 @@ The dataset contains five variables: sepal length, sepal width, petal length, pe
 
 ## 4. Create a more complex plot
 Re-create the above plot, but this time plot the setosa data points in red, the versicolor data point in green, and the virginica data points in blue. Setosa, versicolor, and virginica are the three possible values of the species variable. Add a legend to the plot showing which species is in which colour.
+
+## 5. Use seaborn
+Use the [seaborn](http://seaborn.pydata.org/examples/scatterplot_matrix.html) library to create a scatterplot matrix of all five variables.
