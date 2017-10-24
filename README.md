@@ -27,3 +27,6 @@ Fit a straight line to the variables petal length and petal width for the whole 
 
 ## 7. Calculate the R-squared value
 Calculate the R-squared value for your line above.
+
+## 8. Fit another line
+Use numpy to select only the data points where species is setosa. Fit a straight line to the variables petal length and petal width. Plot the data points in a scatter plot with the best fit line shown.
