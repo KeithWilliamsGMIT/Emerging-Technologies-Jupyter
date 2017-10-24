@@ -33,3 +33,6 @@ Use numpy to select only the data points where species is setosa. Fit a straight
 
 ## 9. Calculate the R-squared value
 Calculate the R-squared value for your line above.
+
+## 10. Use gradient descent
+Use gradient descent to approximate the best fit line for the petal length and petal width setosa values. Compare the outputs to your calculations above.
