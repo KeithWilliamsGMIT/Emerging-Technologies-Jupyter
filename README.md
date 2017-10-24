@@ -24,3 +24,6 @@ Use the [seaborn](http://seaborn.pydata.org/examples/scatterplot_matrix.html) li
 
 ## 6. Fit a line
 Fit a straight line to the variables petal length and petal width for the whole data set. Plot the data points in a scatter plot with the best fit line shown.
+
+## 7. Calculate the R-squared value
+Calculate the R-squared value for your line above.
